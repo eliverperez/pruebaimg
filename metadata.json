@@ -1,0 +1,34 @@
+{
+    "name": "NerdBrainies #32",
+    "symbol": "YC",
+    "description": "CHANGED NFT Collection",
+    "seller_fee_basis_points": 1000,
+    "image": "https://raw.githubusercontent.com/eliverperez/pruebaimg/master/nftimage.png",
+    "external_url": "https://nerdbrainies.com",
+    "edition": 32,
+    "collection": {
+        "name": "Nerd Brainies Campus",
+        "family": "NB NFTs Colletion"
+    },
+    "attributes": [
+        {
+            "trait_type": "Mystery",
+            "value": "Brain"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/eliverperez/pruebaimg/master/nftimage.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "juh9y9cT5vwVke779FPWcSHA5ZByPmnd9ZW36JWogRe",
+                "share": 100
+            }
+        ]
+    }
+}
