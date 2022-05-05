@@ -3,7 +3,7 @@
     "symbol": "YC",
     "description": "CHANGED NFT Collection",
     "seller_fee_basis_points": 1000,
-    "image": "https://nerdbrainies.com/metadatach/nftimage.png",
+    "image": "https://raw.githubusercontent.com/eliverperez/pruebaimg/master/nftimage.png",
     "external_url": "https://nerdbrainies.com",
     "edition": 32,
     "collection": {
@@ -19,7 +19,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://nerdbrainies.com/metadatach/nftimage.png",
+                "uri": "https://raw.githubusercontent.com/eliverperez/pruebaimg/master/nftimage.png",
                 "type": "image/png"
             }
         ],
